@@ -14,8 +14,8 @@ A Laravel-based API service that provides authentication for TV devices using a 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/tv-auth-api.git
-cd tv-auth-api
+git clone https://github.com/yourusername/tv-APP.git    
+cd tv-APP
 ```
 
 2. Install dependencies:
